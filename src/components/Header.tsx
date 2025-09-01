@@ -39,6 +39,7 @@ export default function Header({
 
   return (
     <header className={`${isDarkMode ? 'bg-gray-800/80' : 'bg-white/80'} backdrop-blur-sm border-b ${isDarkMode ? 'border-gray-700/20' : 'border-white/20'} sticky top-0 z-10 transition-colors duration-300`}>
+      <h1>WELCOME TO NOTES APP</h1>
       <div className="max-w-4xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div>
