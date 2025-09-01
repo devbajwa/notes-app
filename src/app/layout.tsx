@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Notes App",
+  title: "Notes App by Waqas Bajwa",
   description: "Devloped by Waqas Naeem Bajwa",
 };
 
